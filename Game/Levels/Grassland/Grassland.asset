@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b102b3fb9b242bc9ebbf0139db1f416, type: 3}
+  m_Name: Grassland
+  m_EditorClassIdentifier: 
+  Id: grassland
+  Waves:
+  - Enemy: {fileID: 11400000, guid: d3020dffed22246999285a4ba5158767, type: 2}
+    SpawnAmount: 12
+    WeightSettings:
+    - PlayerLevelRange: {x: 1, y: 3}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 4, y: 7}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 8, y: 10}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 11, y: 14}
+      SpawnWeight: 0.25
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: ef71f2243feae492fbd51d64e96f3e35, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 1, y: 3}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 4, y: 7}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 8, y: 10}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 11, y: 14}
+      SpawnWeight: 0.5
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 0c761c6fa34a24467b918577ec6bd9c1, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 1, y: 3}
+      SpawnWeight: 0.25
+    - PlayerLevelRange: {x: 4, y: 7}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 8, y: 10}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 11, y: 14}
+      SpawnWeight: 0.75
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: b11389b2b3ab84139bb273a22c510e8d, type: 2}
+    SpawnAmount: 5
+    WeightSettings:
+    - PlayerLevelRange: {x: 1, y: 3}
+      SpawnWeight: 0
+    - PlayerLevelRange: {x: 4, y: 7}
+      SpawnWeight: 0.25
+    - PlayerLevelRange: {x: 8, y: 10}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 11, y: 14}
+      SpawnWeight: 1
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 294e2a0f1ec6b4fdf961efa9f70278a4, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 15, y: 18}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 19, y: 22}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 23, y: 27}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 27, y: 29}
+      SpawnWeight: 0.25
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 9a9b8f243e3734a30a8b57e7c3c68190, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 15, y: 18}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 19, y: 22}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 23, y: 27}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 27, y: 29}
+      SpawnWeight: 0.5
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: a787700243903419a9a1d0fd83f49714, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 15, y: 18}
+      SpawnWeight: 0.25
+    - PlayerLevelRange: {x: 19, y: 22}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 23, y: 27}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 27, y: 29}
+      SpawnWeight: 0.5
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 891500793736149e19ba57b704fd64da, type: 2}
+    SpawnAmount: 8
+    WeightSettings:
+    - PlayerLevelRange: {x: 15, y: 18}
+      SpawnWeight: 0.25
+    - PlayerLevelRange: {x: 19, y: 22}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 23, y: 27}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 27, y: 29}
+      SpawnWeight: 1
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 918d098dc9c3648dca4fdc2f9027f0b7, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 30, y: 33}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 34, y: 37}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 37, y: 40}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 41, y: 44}
+      SpawnWeight: 0.25
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: f22b4d516b23849c3aacdfe8becda7b7, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 30, y: 33}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 34, y: 37}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 37, y: 40}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 41, y: 44}
+      SpawnWeight: 0.5
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: 4baed0ab8c0c14ecc8bd99a5bec21705, type: 2}
+    SpawnAmount: 10
+    WeightSettings:
+    - PlayerLevelRange: {x: 30, y: 33}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 34, y: 37}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 37, y: 40}
+      SpawnWeight: 1
+    - PlayerLevelRange: {x: 41, y: 44}
+      SpawnWeight: 0.75
+    DefaultWeight: 0
+  - Enemy: {fileID: 11400000, guid: b8c58d2fb7d3e45a79f34765bd717a48, type: 2}
+    SpawnAmount: 8
+    WeightSettings:
+    - PlayerLevelRange: {x: 30, y: 33}
+      SpawnWeight: 0.25
+    - PlayerLevelRange: {x: 34, y: 37}
+      SpawnWeight: 0.5
+    - PlayerLevelRange: {x: 37, y: 40}
+      SpawnWeight: 0.75
+    - PlayerLevelRange: {x: 41, y: 44}
+      SpawnWeight: 1
+    DefaultWeight: 0

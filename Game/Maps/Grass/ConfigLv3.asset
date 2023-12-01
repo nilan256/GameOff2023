@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85dd055e5cd41b1a4df18bd6b7231ea, type: 3}
+  m_Name: ConfigLv3
+  m_EditorClassIdentifier: 
+  ScaleLevel: 3
+  Chunks:
+  - {fileID: -630921504898818645, guid: 1f8a775de3f40412ca705f95e07a54f2, type: 3}
+  - {fileID: -6080307167849094247, guid: 02f341e5c7eea41fe8e669af61baad2c, type: 3}
+  - {fileID: 4152541134486735249, guid: 698de6da71f364b3da30033058626d55, type: 3}
+  - {fileID: 7403762288163725412, guid: b2052db28dd044d91aaaa3096f7c23c8, type: 3}
+  - {fileID: -8464328424226003843, guid: d8858292fc391490abfc0361cd2c5f28, type: 3}
+  - {fileID: -3896930254759168802, guid: 73f9c8b0b7b65427c9a1ef0758863f50, type: 3}
+  - {fileID: -7160767442785309950, guid: 664ac157533ed4e7aa515b6684a49caa, type: 3}
+  - {fileID: 1485126359861186224, guid: feeed564b7c7444e691e24b71cf8ac8a, type: 3}
+  - {fileID: 1277610088407220547, guid: 9cd3fc62b52564c808c7370a320325f1, type: 3}
+  MappingInfos:
+  - Position: {x: 0, y: 7}
+    ChunkName: maplv3_01
+  - Position: {x: 1, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 2, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 3, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 4, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 5, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 6, y: 7}
+    ChunkName: maplv3_02
+  - Position: {x: 7, y: 7}
+    ChunkName: maplv3_08
+  - Position: {x: 0, y: 6}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 6}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 6}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 5}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 5}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 5}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 4}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 4}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 4}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 3}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 3}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 3}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 2}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 2}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 2}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 1}
+    ChunkName: maplv3_09
+  - Position: {x: 1, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 2, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 3, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 4, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 5, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 6, y: 1}
+    ChunkName: maplv3_10
+  - Position: {x: 7, y: 1}
+    ChunkName: maplv3_16
+  - Position: {x: 0, y: 0}
+    ChunkName: maplv3_57
+  - Position: {x: 1, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 2, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 3, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 4, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 5, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 6, y: 0}
+    ChunkName: maplv3_58
+  - Position: {x: 7, y: 0}
+    ChunkName: maplv3_64

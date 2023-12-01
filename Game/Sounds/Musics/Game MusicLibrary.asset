@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4d361501eb042f2b48d2c18e2b6f72f, type: 3}
+  m_Name: Game MusicLibrary
+  m_EditorClassIdentifier: 
+  Name: Game
+  OutputAudioMixerGroup: {fileID: 0}
+  Data:
+  - {fileID: 6949257586801969554}
+--- !u!114 &6949257586801969554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d043a3e0f0af4ed191f2f9e6bfb7597d, type: 3}
+  m_Name: main
+  m_EditorClassIdentifier: 
+  Library: {fileID: 11400000}
+  AudioName: main
+  Volume: 1
+  Priority: 128
+  PanStereo: 0
+  SpatialBlend: 0
+  ReverbZoneMix: 1
+  DopplerLevel: 1
+  Spread: 0
+  MinDistance: 1
+  MaxDistance: 500
+  Loop: 0
+  IgnoreListenerPause: 1
+  Data:
+    Clip: {fileID: 8300000, guid: 83af67213e3354b31b6e76623ad7ab83, type: 3}
+    Volume: 1
+    Pitch: 1
+    Weight: 100

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85dd055e5cd41b1a4df18bd6b7231ea, type: 3}
+  m_Name: ConfigLv4
+  m_EditorClassIdentifier: 
+  ScaleLevel: 4
+  Chunks:
+  - {fileID: 6659360780653994428, guid: a65ca847ebfe04156a9f21cebb830417, type: 3}
+  - {fileID: -5742073657002293740, guid: 78be18bb97267401486bb93861894935, type: 3}
+  - {fileID: 3730421996261860479, guid: c35329ae1f67d4c1a898c929c31bff79, type: 3}
+  - {fileID: -3929042222964311217, guid: dc272cc73c76a43099fb07e8ac3a05d8, type: 3}
+  - {fileID: -6608326168551573323, guid: 6fc351c6e260e496ca033d5395ce0bc3, type: 3}
+  - {fileID: -5488983691646979716, guid: 0bc690635c75b49578209105055bdcad, type: 3}
+  - {fileID: 8897965222599465061, guid: 6cd6db35919d7401fa7bdfabd167e50b, type: 3}
+  - {fileID: -7721204604430108509, guid: 11dd563ecbdd945cca5e62b4260be991, type: 3}
+  - {fileID: 3631288077191381318, guid: 8720e73219ad44bfb87d3c9904acdfb0, type: 3}
+  MappingInfos:
+  - Position: {x: 0, y: 3}
+    ChunkName: maplv4_01
+  - Position: {x: 1, y: 3}
+    ChunkName: maplv4_02
+  - Position: {x: 2, y: 3}
+    ChunkName: maplv4_02
+  - Position: {x: 3, y: 3}
+    ChunkName: maplv4_04
+  - Position: {x: 0, y: 2}
+    ChunkName: maplv4_05
+  - Position: {x: 1, y: 2}
+    ChunkName: maplv4_06
+  - Position: {x: 2, y: 2}
+    ChunkName: maplv4_06
+  - Position: {x: 3, y: 2}
+    ChunkName: maplv4_08
+  - Position: {x: 0, y: 1}
+    ChunkName: maplv4_05
+  - Position: {x: 1, y: 1}
+    ChunkName: maplv4_06
+  - Position: {x: 2, y: 1}
+    ChunkName: maplv4_06
+  - Position: {x: 3, y: 1}
+    ChunkName: maplv4_08
+  - Position: {x: 0, y: 0}
+    ChunkName: maplv4_13
+  - Position: {x: 1, y: 0}
+    ChunkName: maplv4_14
+  - Position: {x: 2, y: 0}
+    ChunkName: maplv4_14
+  - Position: {x: 3, y: 0}
+    ChunkName: maplv4_16

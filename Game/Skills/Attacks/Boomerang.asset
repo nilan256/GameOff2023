@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70991add74446c781265745232f5da5, type: 3}
+  m_Name: Boomerang
+  m_EditorClassIdentifier: 
+  Id: boomerang
+  DisplayName: Boomerang
+  DisplayDescription: Change your attack mode to throwing a boomerang, can reduce
+    cooldown when caught it.
+  Icon: {fileID: -9199041974657841000, guid: f2b713430352943b0baabf89f3cb6d32, type: 3}
+  Weight: 30
+  Prefab: {fileID: 6540322741832715245, guid: d491d2bf1d00c40b182fd30b1017fb4e, type: 3}

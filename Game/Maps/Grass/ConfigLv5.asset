@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85dd055e5cd41b1a4df18bd6b7231ea, type: 3}
+  m_Name: ConfigLv5
+  m_EditorClassIdentifier: 
+  ScaleLevel: 5
+  Chunks:
+  - {fileID: 5312561794921943036, guid: 0389154dbc6b6408abad12f2edbe9c52, type: 3}
+  - {fileID: -8091249402382921367, guid: dba15fe90bddc44db807171591a3abf0, type: 3}
+  - {fileID: -5203890791336901694, guid: eb93b203b827b48ff8b24a16f5137c98, type: 3}
+  - {fileID: 4015906243719076839, guid: 31f180843a1234183b9884ec827715ef, type: 3}
+  MappingInfos:
+  - Position: {x: 0, y: 1}
+    ChunkName: maplv5_01
+  - Position: {x: 1, y: 1}
+    ChunkName: maplv5_02
+  - Position: {x: 0, y: 0}
+    ChunkName: maplv5_03
+  - Position: {x: 1, y: 0}
+    ChunkName: maplv5_04

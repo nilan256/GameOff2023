@@ -1,0 +1,929 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maplv5_01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "g3.tsx": {
+            "dynamicWrapping": true
+        },
+        "grasslv1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.12
+        },
+        "grasslv2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "grasslv3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grasslv4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grasslv5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lv1_trees.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.12
+        },
+        "lv2_trees.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.12
+        },
+        "lv3_trees.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.12
+        },
+        "lv4_trees.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.12
+        },
+        "lv5_trees.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "maplv1_01.tmx": {
+            "scale": 1.22,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 363.11475409836066,
+                "y": 313.1147540983606
+            }
+        },
+        "maplv1_100.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 336,
+                "y": 566
+            }
+        },
+        "maplv1_101.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 272,
+                "y": 234
+            }
+        },
+        "maplv1_102.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 200,
+                "y": 182
+            }
+        },
+        "maplv1_103.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 330,
+                "y": 220
+            }
+        },
+        "maplv1_126.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 296,
+                "y": 310.6666666666667
+            }
+        },
+        "maplv1_127.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 0,
+                "y": 468
+            }
+        },
+        "maplv1_130.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 190,
+                "y": 364
+            }
+        },
+        "maplv1_131.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 408,
+                "y": 40
+            }
+        },
+        "maplv1_132.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 336,
+                "y": 566
+            }
+        },
+        "maplv1_158.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 305.3333333333333,
+                "y": 282.6666666666667
+            }
+        },
+        "maplv1_159.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 66,
+                "y": 496
+            }
+        },
+        "maplv1_162.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 354,
+                "y": 504
+            }
+        },
+        "maplv1_163.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 322.66666666666663,
+                "y": 238.66666666666669
+            }
+        },
+        "maplv1_190.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 290.66666666666663,
+                "y": 330.6666666666667
+            }
+        },
+        "maplv1_191.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": -24.24242424242425,
+                "y": 515.1515151515152
+            }
+        },
+        "maplv1_194.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 202,
+                "y": 484
+            }
+        },
+        "maplv1_195.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 194,
+                "y": 408
+            }
+        },
+        "maplv1_222.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 292,
+                "y": 326.6666666666667
+            }
+        },
+        "maplv1_223.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 174,
+                "y": 522
+            }
+        },
+        "maplv1_226.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 240,
+                "y": 373.33333333333337
+            }
+        },
+        "maplv1_227.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 386.66666666666663,
+                "y": 320
+            }
+        },
+        "maplv1_254.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 249.33333333333331,
+                "y": 210.66666666666669
+            }
+        },
+        "maplv1_255.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 144,
+                "y": 436
+            }
+        },
+        "maplv1_66.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 210,
+                "y": 164
+            }
+        },
+        "maplv1_67.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 281.3333333333333,
+                "y": 310.6666666666667
+            }
+        },
+        "maplv1_68.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 282.66666666666663,
+                "y": 306.6666666666667
+            }
+        },
+        "maplv1_69.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 324,
+                "y": 306.6666666666667
+            }
+        },
+        "maplv1_70.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 506.060606060606,
+                "y": 336.3636363636365
+            }
+        },
+        "maplv1_71.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 478,
+                "y": 228
+            }
+        },
+        "maplv1_898.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 244,
+                "y": 360
+            }
+        },
+        "maplv1_899.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 406.66666666666663,
+                "y": 450.6666666666667
+            }
+        },
+        "maplv1_900.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 388,
+                "y": 356
+            }
+        },
+        "maplv1_901.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 234.66666666666663,
+                "y": 412
+            }
+        },
+        "maplv1_902.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 122,
+                "y": 374
+            }
+        },
+        "maplv1_903.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 234.66666666666663,
+                "y": 338.6666666666667
+            }
+        },
+        "maplv1_926.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 289.3333333333333,
+                "y": 322.6666666666667
+            }
+        },
+        "maplv1_927.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 314,
+                "y": 160
+            }
+        },
+        "maplv1_930.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 190.90909090909076,
+                "y": 309.09090909090924
+            }
+        },
+        "maplv1_931.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 253.33333333333331,
+                "y": 348
+            }
+        },
+        "maplv1_932.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 245.33333333333331,
+                "y": 206.66666666666669
+            }
+        },
+        "maplv1_933.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 278.66666666666663,
+                "y": 278.6666666666667
+            }
+        },
+        "maplv1_934.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 220,
+                "y": 282
+            }
+        },
+        "maplv1_935.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 232,
+                "y": 334
+            }
+        },
+        "maplv1_94.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 316,
+                "y": 228
+            }
+        },
+        "maplv1_95.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 338,
+                "y": 126
+            }
+        },
+        "maplv1_958.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 408,
+                "y": 246.66666666666669
+            }
+        },
+        "maplv1_959.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 536,
+                "y": 200
+            }
+        },
+        "maplv1_98.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320,
+                "y": 94
+            }
+        },
+        "maplv1_99.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 365.3333333333333,
+                "y": 185.33333333333337
+            }
+        },
+        "maplv2_01.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 376,
+                "y": 222
+            }
+        },
+        "maplv2_02.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 262.66666666666663,
+                "y": 326.6666666666667
+            }
+        },
+        "maplv2_03.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 300,
+                "y": 252
+            }
+        },
+        "maplv2_04.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 256,
+                "y": 324
+            }
+        },
+        "maplv2_15.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 376,
+                "y": 142
+            }
+        },
+        "maplv2_16.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 374,
+                "y": 164
+            }
+        },
+        "maplv2_17.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 434.66666666666663,
+                "y": 401.33333333333337
+            }
+        },
+        "maplv2_18.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 278,
+                "y": 40
+            }
+        },
+        "maplv2_19.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 289,
+                "y": 306
+            }
+        },
+        "maplv2_20.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 289.3333333333333,
+                "y": 317.33333333333337
+            }
+        },
+        "maplv2_289.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 346,
+                "y": 138
+            }
+        },
+        "maplv2_290.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 248,
+                "y": 262.6666666666667
+            }
+        },
+        "maplv2_291.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 296,
+                "y": 301.33333333333337
+            }
+        },
+        "maplv2_292.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 304,
+                "y": 256
+            }
+        },
+        "maplv2_303.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 334.66666666666663,
+                "y": 254.66666666666669
+            }
+        },
+        "maplv2_304.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 430,
+                "y": 216
+            }
+        },
+        "maplv2_305.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 222,
+                "y": 134
+            }
+        },
+        "maplv2_306.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_307.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_308.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_31.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 492,
+                "y": 336
+            }
+        },
+        "maplv2_319.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_32.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 178,
+                "y": 232
+            }
+        },
+        "maplv2_320.tmx": {
+            "scale": 1.200859375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 358.0768980547785,
+                "y": 298.1198360549086
+            }
+        },
+        "maplv2_33.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 252,
+                "y": 402
+            }
+        },
+        "maplv2_34.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 286,
+                "y": 164
+            }
+        },
+        "maplv2_47.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 237.33333333333331,
+                "y": 298.6666666666667
+            }
+        },
+        "maplv2_48.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_49.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv2_50.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 457.5757575757575,
+                "y": 93.939393939394
+            }
+        },
+        "maplv2_63.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 244,
+                "y": 374.6666666666667
+            }
+        },
+        "maplv2_64.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 326,
+                "y": 146
+            }
+        },
+        "maplv3_01.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 377.3333333333333,
+                "y": 278.6666666666667
+            }
+        },
+        "maplv3_02.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 273.3333333333333,
+                "y": 306.6666666666667
+            }
+        },
+        "maplv3_08.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 278.66666666666663,
+                "y": 340
+            }
+        },
+        "maplv3_09.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 406,
+                "y": 233
+            }
+        },
+        "maplv3_10.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.22294002153404,
+                "y": 320.222940021534
+            }
+        },
+        "maplv3_16.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 280,
+                "y": 186
+            }
+        },
+        "maplv3_57.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 341.3333333333333,
+                "y": 284
+            }
+        },
+        "maplv3_58.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 160,
+                "y": 580
+            }
+        },
+        "maplv3_64.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 280,
+                "y": 386
+            }
+        },
+        "maplv4_01.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 457.3333333333333,
+                "y": 382.6666666666667
+            }
+        },
+        "maplv4_02.tmx": {
+            "scale": 1.233515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 321.03363100893034,
+                "y": 320.222940021534
+            }
+        },
+        "maplv4_04.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 214,
+                "y": 356
+            }
+        },
+        "maplv4_05.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 230,
+                "y": 638
+            }
+        },
+        "maplv4_08.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -20,
+                "y": 290
+            }
+        },
+        "maplv4_13.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -303.030303030303,
+                "y": 221.21212121212113
+            }
+        },
+        "maplv4_14.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -339.3939393939395,
+                "y": 393.9393939393939
+            }
+        },
+        "maplv4_16.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 366.66666666666663,
+                "y": 148.4848484848485
+            }
+        },
+        "maplv5_01.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 889.3939393939393,
+                "y": 10.60606060606051
+            }
+        },
+        "maplv5_02.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 148,
+                "y": 580
+            }
+        },
+        "maplv5_03.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 178,
+                "y": 324
+            }
+        },
+        "maplv5_04.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 216,
+                "y": 366
+            }
+        },
+        "out.tmx": {
+            "scale": 1.16,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.68965517241384,
+                "y": 315.5172413793104
+            }
+        },
+        "outtile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.12
+        }
+    },
+    "last.imagePath": "/Users/somemac/unity/GameOff2023/Assets/Game/Maps/Grass",
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "mapScene.enableWorlds": false,
+    "openFiles": [
+        "lv1_trees.tsx",
+        "maplv5_01.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "lv1_trees.tsx",
+        "maplv5_01.tmx",
+        "maplv1_66.tmx",
+        "maplv1_131.tmx",
+        "maplv1_132.tmx",
+        "lv2_trees.tsx",
+        "lv4_trees.tsx",
+        "lv3_trees.tsx",
+        "maplv1_100.tmx",
+        "maplv1_102.tmx",
+        "maplv1_101.tmx",
+        "maplv1_103.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 640,
+        "width": 640
+    }
+}

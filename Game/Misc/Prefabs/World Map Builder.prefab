@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6291857164503974573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2341148916369275238}
+  - component: {fileID: 3820913473830943720}
+  - component: {fileID: 1363312820283423016}
+  m_Layer: 0
+  m_Name: World Map Builder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2341148916369275238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6291857164503974573}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3820913473830943720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6291857164503974573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98614d34fadd4c8b806be978e589931d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ChunkGrid: {fileID: 1363312820283423016}
+  InitializeOnStart: 0
+  InitScaleLevel: 1
+  Configs:
+  - {fileID: 11400000, guid: fc53e0f0c8f0846a8a89959a5c4cfd61, type: 2}
+  - {fileID: 11400000, guid: 4a122bbbe109445afab8d60c7e02a64c, type: 2}
+  - {fileID: 11400000, guid: 2e8f4f40656544b4ead76182d45d20db, type: 2}
+  - {fileID: 11400000, guid: daead6c2890c8441d8f393f9ae5a4a88, type: 2}
+  - {fileID: 11400000, guid: da028c530296a4df3b7acce49b95daf7, type: 2}
+  OutsideChunk: {fileID: 3716886319605525017, guid: 1b275e3ad8f2b42afae7d28c9f94bdbb,
+    type: 3}
+--- !u!156049354 &1363312820283423016
+Grid:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6291857164503974573}
+  m_Enabled: 1
+  m_CellSize: {x: 640, y: 640, z: 1}
+  m_CellGap: {x: 0, y: 0, z: 0}
+  m_CellLayout: 0
+  m_CellSwizzle: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11c116312bb6484c81eb7582b220768f, type: 3}
+  m_Name: GameDatabase
+  m_EditorClassIdentifier: 
+  Characters:
+  - {fileID: 11400000, guid: 70bf0331c3ea44d3c9a3a52d964efe79, type: 2}
+  Enemies:
+  - {fileID: 11400000, guid: 0c761c6fa34a24467b918577ec6bd9c1, type: 2}
+  - {fileID: 11400000, guid: d3020dffed22246999285a4ba5158767, type: 2}
+  - {fileID: 11400000, guid: ef71f2243feae492fbd51d64e96f3e35, type: 2}
+  - {fileID: 11400000, guid: b11389b2b3ab84139bb273a22c510e8d, type: 2}
+  - {fileID: 11400000, guid: 294e2a0f1ec6b4fdf961efa9f70278a4, type: 2}
+  - {fileID: 11400000, guid: 9a9b8f243e3734a30a8b57e7c3c68190, type: 2}
+  - {fileID: 11400000, guid: a787700243903419a9a1d0fd83f49714, type: 2}
+  - {fileID: 11400000, guid: 891500793736149e19ba57b704fd64da, type: 2}
+  - {fileID: 11400000, guid: 918d098dc9c3648dca4fdc2f9027f0b7, type: 2}
+  - {fileID: 11400000, guid: f22b4d516b23849c3aacdfe8becda7b7, type: 2}
+  - {fileID: 11400000, guid: 4baed0ab8c0c14ecc8bd99a5bec21705, type: 2}
+  - {fileID: 11400000, guid: b8c58d2fb7d3e45a79f34765bd717a48, type: 2}
+  - {fileID: 11400000, guid: 0ef6f978ae3674e44a7c9fa2b3fc28a7, type: 2}
+  Projectiles: []
+  Levels:
+  - {fileID: 11400000, guid: de88e027eb60041c49a23592f7590869, type: 2}
+  Skills:
+  - {fileID: 11400000, guid: 178bca3836eb045b2ab40dbfcd3f44eb, type: 2}
+  - {fileID: 11400000, guid: 51bbf1830520e4a29832b8c1783ff87d, type: 2}
+  - {fileID: 11400000, guid: 3a10ea2ecf932462799e8d68d92c900b, type: 2}
+  - {fileID: 11400000, guid: 64b16f3d80114460cbcf8f4ab0071f70, type: 2}
+  - {fileID: 11400000, guid: 254fe9e8712a748439a4805b6c32ae21, type: 2}
+  - {fileID: 11400000, guid: 5f5acb416e9864ab1a2f1778a5be0ba1, type: 2}
+  - {fileID: 11400000, guid: 5127919904cc94f43970ec290dda4d7b, type: 2}
+  - {fileID: 11400000, guid: e65067362dd2f447582086aa07f19468, type: 2}
+  - {fileID: 11400000, guid: 5b8bbf00d4adc4b31bd54f35c2fe3c95, type: 2}
+  - {fileID: 11400000, guid: 692286cf65bda49e585067d84fedc32a, type: 2}
+  - {fileID: 11400000, guid: 9e0ce0980def54aa390d23a4b0d9aa9f, type: 2}
+  - {fileID: 11400000, guid: e31da94b01b57480d82f61b6b83e5a84, type: 2}
+  - {fileID: 11400000, guid: 0053627435d7d4e6eb1dcc32a0854f64, type: 2}
+  FallbackSkill: {fileID: 11400000, guid: 3b29a304100354358b3dfa6ced758cd1, type: 2}
+  Pickups: {fileID: 11400000, guid: 00687a6ca57174f5084f94ef24d415e3, type: 2}
+  GameplaySetting: {fileID: 11400000, guid: 79117cddf412b4ff3b2edc62083f9733, type: 2}
